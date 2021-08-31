@@ -1,0 +1,41 @@
+.all{
+    width: 1400px;
+    height: 650px;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: hotpink;
+    background-image: url(../quynhimg/12.png);
+}
+.mid{
+    width: 1400px;
+    height: 50px;
+}
+.mid h1{
+    margin-left: 500px;
+}
+.banner{
+    width: 1000px;
+    height: 50px;
+}
+.banner .left{
+    width: 300px;
+    height: 50px;
+    float: left;
+}
+.left h1{
+    margin-left: 50px;
+}
+.banner .right{
+    width: 700px;
+    height: 50px;
+    float: left;
+}
+a{
+    color: hotpink;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover{
+    color:aqua ;
+}
